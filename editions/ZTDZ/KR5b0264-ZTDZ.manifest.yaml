@@ -1,0 +1,52 @@
+canonical_identifier: bkk:krp/KR5b0264/ZTDZ/v1
+canonical_location: https://kanripo.org/bkk/KR5b0264/ZTDZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 太上靈寶淨明法印式
+  date: '2015-08-29 00:15:25.680341'
+  source:
+    repository: kanripo
+    path: KR5b0264
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5b0264_000-ZTDZ.yaml, hash: 'sha256:087dbc883aac053a9a1adfe927e97742f8a8763ba0435b4581ef2aa92cec4f7d'}
+  - {seq: 1, filename: KR5b0264_001-ZTDZ.yaml, hash: 'sha256:2206411b7f2f4d76d3c814b2c83e3b11a4491292db1f293e452cbd5bc130c33a'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5b0264_000-ZTDZ.markers.yaml, hash: 'sha256:66dc0edc0d2355989b0d9946d05af9500b52469e3d9d97937278784f6b216164'}
+  - {seq: 1, role: markers, filename: assets/KR5b0264_001-ZTDZ.markers.yaml, hash: 'sha256:5b2f2880dc7fbe34e9d981246f70dc3f49273e06a33121b95ca37490d9c32176'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5b0264_SJB_000-100526b
+    span:
+    - body
+    - 0
+    - 308
+  label: juan 000
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR5b0264_SJB_001-100526c
+    span:
+    - body
+    - 0
+    - 80
+  label: juan 001
+  type: section
+  level: 1
+hash: sha256:c168ca054c55e0d3f2fe4c997ee956636900117de9b170590012947799b240e0

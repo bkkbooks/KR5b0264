@@ -1,0 +1,52 @@
+canonical_identifier: bkk:krp/KR5b0264/HFL/v1
+canonical_location: https://kanripo.org/bkk/KR5b0264/HFL/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 太上靈寶淨明法印式
+  date: '2015-08-29 00:15:25.680341'
+  source:
+    repository: kanripo
+    path: KR5b0264
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: HFL
+    label: 【正統道藏・涵芬樓版】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5b0264_000-HFL.yaml, hash: 'sha256:2cf5cce949c8e2a2b80a50a9d2a7911cf8ea31567300af7690d17884f5d3ab22'}
+  - {seq: 1, filename: KR5b0264_001-HFL.yaml, hash: 'sha256:5627b84a84246cd6d4afffa05c47a3f3536ae4c651ab70bc73475cc00e48b117'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5b0264_000-HFL.markers.yaml, hash: 'sha256:c3ae9cd9649099edc3e876660e2f19e46f45526d61763c1d0f9048802182c5b8'}
+  - {seq: 1, role: markers, filename: assets/KR5b0264_001-HFL.markers.yaml, hash: 'sha256:230a8b05454e89f35ef1d5ae8a44bef6499958b5fa3af8b0afe34f8c3a53b481'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5b0264_HFL_000-001a
+    span:
+    - body
+    - 0
+    - 308
+  label: juan 000
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR5b0264_HFL_001-001a
+    span:
+    - body
+    - 0
+    - 80
+  label: juan 001
+  type: section
+  level: 1
+hash: sha256:9e83dcaa50815095c66769d7617e1393bd1bdb274ab760157440dcf094c219ee

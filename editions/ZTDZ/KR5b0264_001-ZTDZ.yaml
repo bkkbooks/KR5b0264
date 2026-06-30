@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR5b0264/ZTDZ/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 太上靈寳淨明法印式凡得淨明法者雕印二顆各二寸四分一曰太上淨明之印一曰淨明法主之印淨眀之印奏牘即用之法主之印即遣呼召鬼神等用之又有職稱者印雕職印太上靈寳淨明法印式
+  hash: sha256:c4c5e3f7bbed61ac7bc502a8200ec32f818459927b54b64c9ce812f96b0b4982
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5b0264_SJB_001-100526c, image: sjb/10/100526c.png}
+metadata:
+  title: 太上靈寶淨明法印式
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+  date: '2015-08-29 00:15:25.680341'
+  source:
+    repository: kanripo
+    path: KR5b0264/KR5b0264_001.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+hash: sha256:2206411b7f2f4d76d3c814b2c83e3b11a4491292db1f293e452cbd5bc130c33a
