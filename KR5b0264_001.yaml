@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 太上靈寳淨明法印式凡得淨明法者雕印二顆各二寸四分一曰太上淨明之印一曰淨明法主之印淨眀之印奏牘即用之法主之印即遣呼召鬼神等用之又有職稱者印雕職印太上靈寳淨明法印式
-  hash: sha256:c4c5e3f7bbed61ac7bc502a8200ec32f818459927b54b64c9ce812f96b0b4982
+  text: 太上靈寶淨明法印式凡得淨明法者雕印二顆各二寸四分一曰太上淨明之印一曰淨明法主之印淨眀之印奏牘即用之法主之印即遣呼召鬼神等用之又有職稱者印雕職印太上靈寶淨明法印式
+  hash: sha256:b771e515757818acf5f96ae48d1d76be09acae67b233ab8634644498d0e3b46c
   markers:
   - {type: page-break, offset: 0, content: '', id: KR5b0264_HFL_001-001a, image: hfl/0315/0315-024.png}
 metadata:
@@ -23,4 +23,4 @@ metadata:
     YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
     HFL: http://img.kanripo.org/daoist/ztdz/
     WYG: http://img.kanripo.org/general/skqs/wyg/
-hash: sha256:8862d22ca99356b49c7731e51ca9caaa08c885042656478bcb6c32398f1fd971
+hash: sha256:d51aaf074e10fe0d57487345a691280a4469eee57e05aa7700bff1c49da74a04
